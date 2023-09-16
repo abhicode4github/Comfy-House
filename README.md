@@ -6,4 +6,4 @@ A Shopping Cart project , built using the javaScript.
 * Show total number of items inside the cart.
 * Total amount of the products inside the cart .
 * Add number of particular items , and decrease the number of item .
-### Live URL - 
+### Live URL - https://abhicode4github.github.io/Comfy-House/
